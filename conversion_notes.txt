@@ -1,0 +1,5 @@
+Maybe replace maps with default js objects?
+Convert Battleresult into an enum?
+Convert steal/lost resources into Key,Value Objects instead of arrays
+
+There are some TODOS with questions
