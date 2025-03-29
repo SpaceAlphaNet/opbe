@@ -148,10 +148,3 @@ dist
 # End of https://www.toptal.com/developers/gitignore/api/node
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
-
-combatObject/*.js
-constants/*.js
-core/*.js
-models/*.js
-ts-tests/**/*.js
-utils/*.js
